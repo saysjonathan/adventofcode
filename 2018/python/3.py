@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-from collections import Counter
 
 lines = [l.strip() for l in sys.stdin.readlines()]
 
